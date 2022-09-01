@@ -1,0 +1,23 @@
+button {
+    background-color: '#824c67';
+    border-color: '#824c67';
+    border-style: solid;
+    border-radius: 5px;
+    font-family: "'Segoe UI', 'Helvetica Neue',sans-serif";
+    font-size: '16px';
+    padding: 5px 10px;
+    color: black;
+    cursor: pointer;
+}
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+button:hover {
+    background-color: '#681c41';
+}
+
+button:focus {
+    outline-color: '#824c67';
+}

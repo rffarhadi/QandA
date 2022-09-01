@@ -1,0 +1,17 @@
+
+.container {
+    padding: 10px 0px;
+    font-size: 19px;
+}
+
+.containerOptional {
+    padding-bottom: 10px;
+      font-size: 15px;
+      color: '#5c5a5a';
+}
+
+.containerAsk{
+    font-size: 12px;
+    font-style: italic;
+    color: '#857c81';
+}
